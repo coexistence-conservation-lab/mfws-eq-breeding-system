@@ -6,4 +6,4 @@ Generally, we're asking the question "What affects breeding in the population" i
 
 Note that in this analysis "successful" reproduction is equivalent to recruiting offspring into the next generation, rather than conception/birth being the endpoint. This is because individuals can only be captured and  microchipped/sampled if they survive from birth to dispersal from the natal den (and, therefore, they are captured in population monitoring).
 
-Related datasets are also archived for long-term storage at ANU's Data Repository: https://dx.doi.org/10.25911/50fr-x765.
+Related datasets are also archived for long-term storage at ANU's Data Repository: https://10.25911/50fr-x765.
