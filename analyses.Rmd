@@ -2838,9 +2838,12 @@ ggsave(
 
 # **Session information**
 
-Records your R version, operating system, and package versions for reproducibility and troubleshooting. 
-
 ```{r, eval = TRUE}
 # Display R version, OS, and loaded packages
 sessionInfo()
+```
+
+```{r, eval = FALSE}
+# Generate citation file in /metadata
+generate_citation()
 ```

@@ -4177,8 +4177,6 @@ separated sexes</h3>
 <div id="session-information" class="section level1" number="8">
 <h1><span class="header-section-number">8</span> <strong>Session
 information</strong></h1>
-<p>Records your R version, operating system, and package versions for
-reproducibility and troubleshooting.</p>
 <div class="sourceCode" id="cb103"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb103-1"><a href="#cb103-1" tabindex="-1"></a><span class="co"># Display R version, OS, and loaded packages</span></span>
 <span id="cb103-2"><a href="#cb103-2" tabindex="-1"></a><span class="fu">sessionInfo</span>()</span></code></pre></div>
 <pre><code>## R version 4.5.2 (2025-10-31 ucrt)
@@ -4206,6 +4204,8 @@ reproducibility and troubleshooting.</p>
 ## [13] compiler_4.5.2    rstudioapi_0.18.0 tools_4.5.2       evaluate_1.0.5   
 ## [17] bslib_0.10.0      yaml_2.3.12       otel_0.2.0        jsonlite_2.0.0   
 ## [21] rlang_1.1.6</code></pre>
+<div class="sourceCode" id="cb105"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb105-1"><a href="#cb105-1" tabindex="-1"></a><span class="co"># Generate citation file in /metadata</span></span>
+<span id="cb105-2"><a href="#cb105-2" tabindex="-1"></a><span class="fu">generate_citation</span>()</span></code></pre></div>
 </div>
 
 

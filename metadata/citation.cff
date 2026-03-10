@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this code, please cite the following."
-title: "Project title"
+title: "Factors affecting multiple paternity: insights from the eastern quoll"
 authors:
-  - name: Last Name Initials (e.g., Wilson B A)
-date-released: February 09, 2026
-repository-code: https://github.com/coexistence-conservation-lab/template
+  - name: Brockett B M
+date-released: March 10, 2026
+repository-code: https://github.com/coexistence-conservation-lab/mfws-eq-breeding-system
 license: MIT
