@@ -34,14 +34,7 @@ Note that in this analysis "successful" reproduction is equivalent to recruiting
 
 ## Global options
 
-When you [knit this document 🧶](https://rmarkdown.rstudio.com/authoring_quick_tour.html) (e.g., render to HTML), you can add **chunk options** to control what is shown in the output (e.g., `{r, message = FALSE, results = 'hide', warning = FALSE}`): 
-
-  - **asis:** whether output is *rendered* as-is (e.g., inline markdown)
-  - **echo:** whether the code is *shown*
-  - **eval:** whether the code is *run* (useful for draft chunks)
-  - **message:** whether messages are *shown* (e.g., package loading) 
-  - **results:** whether the return value is *shown*
-  - **warning:** whether warnings are *shown* 
+When you [knit this document 🧶](https://rmarkdown.rstudio.com/authoring_quick_tour.html) (e.g., render to HTML), you can add **chunk options** to control what is shown in the output (e.g., `{r, message = FALSE, results = 'hide', warning = FALSE}`).
 
 To avoid long chunk headers like the one above, use these custom options:  
 
