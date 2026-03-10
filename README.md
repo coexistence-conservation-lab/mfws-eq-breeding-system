@@ -1,6 +1,6 @@
-# Title
+# MFWS eastern quoll breeding system
 
-Here we present the datasets and workflows used for Brockett *et al*., (in review) *Factors affecting multiple paternity: insights from the eastern quoll (*Dasyurus viverrinus*)*. Related datasets are also available in the [ANU data repository](https://10.25911/50fr-x765).
+Here we present the datasets and workflows used for Brockett *et al*. (in review) *Factors affecting multiple paternity: insights from the eastern quoll (*Dasyurus viverrinus*)*. Related datasets are also available in the [ANU data repository](https://10.25911/50fr-x765).
 
 ## Highlights 
 
@@ -20,10 +20,10 @@ These findings indicate that while individual traits shape reproductive outcomes
 
 We posed the question: *"What affects breeding success in  population"* in a hurdle-model approach.
   
-  1. Did **morphological** (e.g., pelage colour morph) or **genetic** (e.g., heterozygosity) factors drive breeding success? 
-  2. For individuals that breed successfully, do these factors influence the number of offspring produced?
+  1. Did **morphological** (e.g., pelage colour morph) or **genetic** (e.g., heterozygosity) factors drive **breeding success**? 
+  2. For individuals that breed successfully, do these factors influence the **number of offspring** produced?
 
-Note that in this analysis "successful" reproduction is equivalent to recruiting offspring into the next generation, rather than conception/birth being the endpoint. This is because individuals can only be captured and  microchipped/sampled if they survive from birth to dispersal from the natal den (and, therefore, they are captured in population monitoring).
+Note that we defined *'successful' reproduction* as equivalent to recruiting offspring into the next generation, rather than conception/birth. This is because individuals can only be captured and microchipped/sampled if they survive from birth to dispersal from the natal den (and, therefore, can be captured in population monitoring).
 
 ## Repository structure
 
