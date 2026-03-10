@@ -1,0 +1,31 @@
+# Default files for Git to ignore
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Renviron
+.Rproj.user/
+rsconnect/
+*-Ex.R
+/*.tar.gz
+/*.Rcheck/
+vignettes/*.html
+vignettes/*.pdf
+.httr-oauth
+*_cache/
+/cache/
+*.utf8.md
+*.knit.md
+docs/
+po/*~
+desktop.ini
+Desktop.ini
+
+# Project-specific files to ignore
+/metadata/google maps api key.txt
+/metadata/google maps api.txt
+/metadata/api key.txt
+*api key*
+*.accdb
+*.tif

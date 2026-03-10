@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the following."
+title: "Project title"
+authors:
+  - name: Last Name Initials (e.g., Wilson B A)
+date-released: February 09, 2026
+repository-code: https://github.com/coexistence-conservation-lab/template
+license: MIT
